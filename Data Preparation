@@ -1,3 +1,0 @@
-# Step 1. Importing the useful packages
-import numpy as np
-from sklearn import preprocessing
